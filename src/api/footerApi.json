@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Me",
+    "details": "Jaipur, Rajatshan, India"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Me",
+    "details": "+91-9983278569"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail Me",
+    "details": "dhakarvinaykumar@gmail.com"
+  }
+]

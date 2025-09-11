@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "interestingFact": "India is the most populous country in the world, with over 1.3 billion people."
+  },
+  {
+    "id": 3,
+    "countryName": "UAE",
+    "capital": "Abu Dhabi",
+    "population": 9890400,
+    "interestingFact": "The Burj Khalifa in Dubai is the tallest building in the world, standing at 828 meters (2,717 feet)."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions. It stretches over 13,000 miles."
+  },
+  {
+    "id": 9,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125960000,
+    "interestingFact": "Japan consists of over 6,800 islands, with four main islands: Honshu, Hokkaido, Kyushu, and Shikoku."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+    "population": 60041996,
+    "interestingFact": "South Africa is known as the 'Rainbow Nation' due to its diverse cultures and languages, with 11 official languages."
+  },
+  {
+    "id": 11,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland. Each has its own distinct culture and traditions. Cricket is a popular sport in the UK."
+  },
+  {
+    "id": 12,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",  
+    "population": 331893745,
+    "interestingFact": "The United States is the third largest country in the world by both area and population. It has a diverse landscape, ranging from the Grand Canyon to the Great Lakes."
+  }
+]
