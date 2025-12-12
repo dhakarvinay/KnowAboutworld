@@ -37,8 +37,8 @@ export const Footers = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2025, All Right Reserved
-                {/* <NavLink to="https://thapatechnical.shop/" target="_blank">
-                  ThapaTechnical
+                {/* <NavLink to="https://www.instagram.com/dhakar_vinaykumar_/?hl=en" target="_blank">
+                  DhakarVinay
                 </NavLink> */}
               </p>
             </div>
@@ -49,7 +49,7 @@ export const Footers = () => {
                   <NavLink to="/">Home</NavLink>
                 </li>
                 <li>
-                  <NavLink to="https://drive.google.com/file/d/1GR7Ud_SgfjMI-tAOdykfOAEshHXXFpky/view?usp=drive_link" target="_blank">Resume
+                  <NavLink to="https://drive.google.com/file/d/1syGqdmh-ROOI3ROCR_QVRdvfUOqxCoQX/view?usp=drive_link" target="_blank">Resume
                   </NavLink>
                 </li>
 
